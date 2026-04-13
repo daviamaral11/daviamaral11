@@ -16,7 +16,7 @@ Tenho 18 anos, moro em Brasília - DF e sou um entusiasta de tecnologia e comput
 
 **Como me encontrar:**
 - **E-mail:** [daviamaral276@gmail.com](mailto:daviamaral276@gmail.com)
-- **LinkedIn:** [Meu Perfil no LinkedIn](www.linkedin.com/in/davi-amaral-a72a88402)
+- **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/davi-amaral-a72a88402/)
 - **GitHub:** [Meu GitHub](https://github.com/daviamaral11)
 
 ---
