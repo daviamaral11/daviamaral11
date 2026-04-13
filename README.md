@@ -64,3 +64,4 @@ Para criar uma experiência visualmente atraente sobre as minhas competências t
 ## 5. Outros: Sessão de Apresentação (Feedback)
 
 Como parte dos requisitos do desenvolvimento deste portfólio digital, gravei um vídeo onde apresento a estrutura, o design e o raciocínio por trás da criação deste *portfolioHUB*.
+[YOUTUBE](https://youtu.be/pXTfdHy26uM)
