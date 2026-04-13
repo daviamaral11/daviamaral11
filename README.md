@@ -54,13 +54,13 @@ Para criar uma experiência visualmente atraente sobre as minhas competências t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 4. :handshake: Recomendações e Testemunhos
+## 4. Recomendações e Testemunhos
 
 > "Davi é um garoto extremamente dedicado, sempre disposto a aprender coisas novas, e com ótimo trabalho em equipe. Não tenho dúvidas de sua eficiência como parte de uma equipe profissional.
 > <br>— **Enio Raulino**, *Gerente de Negócios, BRB*
 
 ---
 
-## 5. :movie_camera: Outros: Sessão de Apresentação (Feedback)
+## 5. Outros: Sessão de Apresentação (Feedback)
 
 Como parte dos requisitos do desenvolvimento deste portfólio digital, gravei um vídeo onde apresento a estrutura, o design e o raciocínio por trás da criação deste *portfolioHUB*.
