@@ -47,7 +47,7 @@ Tenho 18 anos, moro em Brasília - DF e sou um entusiasta de tecnologia e comput
 
 Para criar uma experiência visualmente atraente sobre as minhas competências técnicas (*Hard Skills*) e comportamentais (*Soft Skills*), elaborei uma apresentação completa.
 
-:arrow_forward: **[CLIQUE AQUI PARA ACESSAR MEU CURRÍCULO (PDF)](https://canva.link/j8tkipfamkosxff)**
+:arrow_forward: **[CLIQUE AQUI PARA ACESSAR MEU CURRÍCULO (PDF)](https://drive.google.com/file/d/1cA4WG7zB1805GDYw4CU92EDFfLrA0DUR/view?usp=drive_link)**
 
 
 **Resumo de Tecnologias:**
